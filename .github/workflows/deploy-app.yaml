@@ -1,4 +1,4 @@
-# Workflow derived from https://github.com/posit-dev/r-shinylive/tree/actions/v1/examples
+# Workflow derived from https://github.com/posit-dev/r-shinylive/tree/actions-v1/examples
 # Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 #
 # Basic example of a GitHub Actions workflow that builds a Shiny app and deploys
