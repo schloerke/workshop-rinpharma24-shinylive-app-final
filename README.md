@@ -1,3 +1,5 @@
-# workshop-rinpharma24-shinylive-app-final
+# Final shinylive app for R/Pharma 2024
 
-This repository contains the final version of the Shiny app developed during the R in Pharma Shinylive workshop.
+Starter app: https://github.com/schloerke/workshop-rinpharma24-shinylive-app
+
+Workshop with full description and links to slides: https://github.com/schloerke/workshop-rinpharma24-shinylive
